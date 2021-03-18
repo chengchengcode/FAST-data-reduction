@@ -1,5 +1,5 @@
 # FAST-data-reduction
-Notes for FAST data reduction.
+Notes for Five-hundred-meter Aperture Spherical Radio Telescope data reduction.
 
 1, Tracking mode.
 
