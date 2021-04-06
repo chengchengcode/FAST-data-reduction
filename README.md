@@ -13,9 +13,11 @@ I use the tracking mode for long time integration to the target smaller than one
 
 2, On-Off mode.
 
-I use On-Off mode to observe some local galaxies larger than several beam size. 
+I use On-Off mode to observe some local galaxies larger than several beam size.
 
 During the On-Off to the target, I set: 2s period noise diode and 1s extract 1 spectrum.
+
+Here are examples for one galaxy FAST observations pointing at the galaxy center and one spiral arm, corresponding to Beam M09 and M10.
 
 Reference: 
 
