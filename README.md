@@ -7,7 +7,7 @@ Notes for Five-hundred-meter Aperture Spherical Radio Telescope data reduction.
 
 * Build ds9 region file with ra dec of beam 01: *FAST-Beam-regionfile.ipynb*
 
-* Correct the velocity into Local Standard of Rest Velocity: *dopplerfast.pro*
+* IDL code to correct the velocity into Local Standard of Rest Velocity: *dopplerfast.pro*; python code is included in the ipynb file in ON-OFF mode.
 
 ## Obs by Tracking mode.
 
