@@ -39,6 +39,7 @@ helcorr,dawodangelong,dawodangnlat,altitude,rasrc/15.d,decsrc,mjd,Vcorr,hjd,DEBU
 
 ;print, Vcorr,hjd	; have a look
 
+;## below fomulars are mainly copy from https://www.gb.nrao.edu/GBT/DA/gbtidl/release/user/toolbox/chdoppler.pro
 ;#----- LSR SECTION----------
 ; THE STANDARD LSR IS DEFINED AS FOLLOWS: THE SUN MOVES AT 20.0 KM/S
 ; TOWARD RA=18H, DEC=30.0 DEG IN 1900 EPOCH COORDS
