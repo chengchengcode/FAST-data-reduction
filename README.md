@@ -9,6 +9,8 @@ Notes for Five-hundred-meter Aperture Spherical Radio Telescope data reduction.
 
 * IDL code to correct the velocity into Local Standard of Rest Velocity: *dopplerfast.pro*; python code is included in the ipynb file in ON-OFF mode.
 
+* FAST calibration file can be downloaded here: https://fast.bao.ac.cn/cms/category/telescope_performence_en/noise_diode_calibration_report_en/ The noise information data are ascii files, with interesting format. So I have to write a code to load the data in *Load-FAST-Calib.ipynb*
+
 ## Obs by Tracking mode.
 
 I use the tracking mode for long time integration to the target smaller than one beam.
